@@ -86,7 +86,9 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/df4cd9b9a8cf5896ef3c98bd512f84a378346945/Screenshot%2017.png)
 
+• Besides the 'Employee Code' and 'Name' columns, everything else is a date. I want to combine all the date columns into one single column, which Power BI can do. First, I’ll select the 'Employee Code' and 'Name' columns by pressing Control, then under the 'Transform' tab, I’ll check the available options. I’ll choose 'Unpivot Other Columns' to keep 'Employee Code' and 'Name' as they are and merge all the date columns into one. This is similar to the 'Transpose' concept, but in Power BI, it's called 'Unpivot.' There are three options under 'Unpivot Columns,' and selecting 'Unpivot Other Columns' applies this transformation.
 
 ![image_alt]()
 
+![image_alt]()
 
