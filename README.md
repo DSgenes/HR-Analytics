@@ -52,11 +52,11 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 • Click on the "Table" icon to expand the sheet and reveal its contents.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/d37794ede5b365f288e26ce60af151384b989e25/Screenshot%208.png)
 
-• This is you April sheet Excel file.
+• This is your April sheet Excel file.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/d37794ede5b365f288e26ce60af151384b989e25/Screenshot%209.png)
 
 
 
