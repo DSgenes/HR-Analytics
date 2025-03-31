@@ -66,7 +66,8 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/9583eeee0828be9b50b76772e7f3c40c9491d429/Screenshot%2012.png)
 
-• 
+• When you "promote headers as first row," you're telling Power BI to treat the first row of your data as the column headers. This means the values in that row will become the field names for the columns, ensuring that the table is correctly structured for analysis.
+
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/115f6375514fd529f9f05124761f446e34454aa5/Screenshot%2013.png)
 
 ![image_alt]()
-
