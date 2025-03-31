@@ -124,4 +124,6 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/a589accac7f9be2683fe836327644be543f5239d/Screenshot%2029.png)
 
+• Now, we want to apply this transformation to all the sheets. To do that, we need to create a function. Think of it like this: if you add the number five to one sheet and want to add it to all sheets, you create a function for adding five. This way, you can reuse the same function for all sheets. What we’ll do now is turn all the steps we've done into a reusable function. It’s like creating a template that you can apply to different sheets. To do this, right-click on the Template table, select 'Create a Function,' and name it 'GetData'.
+
 ![image_alt]()
