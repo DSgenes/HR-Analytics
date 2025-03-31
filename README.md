@@ -120,6 +120,8 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/a589accac7f9be2683fe836327644be543f5239d/Screenshot%2028.png)
 
+• Instead of specifically filtering for 'April 2022,' we'll select the data based on the parameter worksheet.
+
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/a589accac7f9be2683fe836327644be543f5239d/Screenshot%2029.png)
 
 ![image_alt]()
