@@ -74,6 +74,8 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt]()
 
+• "Remove Top Rows" and specify "1" to remove the first row.This will get rid of that first row that you don't need.
+
 ![image_alt]()
 
 ![image_alt]()
