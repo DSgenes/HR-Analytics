@@ -62,5 +62,8 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/ea9d763cab7ef4e6979bf690cdb87af803bcc4fd/Screenshot%2011.png)
 
+• You're selecting the table and choosing "Use First Row as Headers" because you want the first row of data to become the column headers. This ensures that the first row is treated as the header for your table columns instead of as regular data.
 
 ![image_alt]()
+
+• 
