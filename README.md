@@ -98,7 +98,7 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 • I initially thought the 'Date' column would only contain dates, but it also includes text data like 'Total Present Days,' 'Present,' 'Work from Home,' etc. These values aren't needed, and I could remove them manually by deselecting them via the dropdown. However, if a new column is added, we'd need to repeat this process. To make it more dynamic and automated, I’m thinking of changing the column’s datatype to 'Date.' This will automatically flag non-date values (like 'Holiday Off') as errors. Then, I can right-click on the 'Date' column and select 'Remove Errors,' which will automatically remove any text values in the future, making the process more efficient and automated.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/83701d4ab868d98feba905b25a321f747be29bfa/Screenshot%2020.png)
 
 ![image_alt]()
 
