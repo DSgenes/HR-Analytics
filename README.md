@@ -32,13 +32,13 @@ to create a reusable transformation that applies consistently across all sheets 
 
 • I don't need the Attendance Key data here because it's only for the reference purpose so I'm deselecting it.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/0251c7a89643057c043689c79db59a4f396171fd/Screenshot%204.png)
 
 This is to ensure that the transformation only applies to the April sheet, and any other sheets with a similar structure will automatically be updated based on the same transformation.
 
 • Select the "Name" column, filter for "Apr 2022", and apply the transformation. It will be replicated across all sheets. 
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/0251c7a89643057c043689c79db59a4f396171fd/Screenshot%205.png)
 
 ![image_alt]()
 
