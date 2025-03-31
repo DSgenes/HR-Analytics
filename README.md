@@ -117,7 +117,7 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 • After completing our transformation, we need to create a parameter. Think of a parameter as a dynamic way to filter data, such as selecting a specific day each month. The value of the parameter can change over time – for example, today it might be for April, tomorrow it could be for January, and the day after, it could be for another month. This allows you to filter data dynamically based on the time frame you need. To do this, I'll go to 'Manage Parameters,' select 'New Parameter,' and create a worksheet. Set the data type to 'Text,' and in the 'Current Value' field, I’ll add the name of the Excel worksheet, like 'Apr 2022.'
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/cf335e53baee10f60d44d6cf7a240ed3fea9837f/Screenshot%2025.png)
 
 ![image_alt]()
 
