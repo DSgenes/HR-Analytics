@@ -90,5 +90,10 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/d30450781002dcf22b540e54aaa9a6a451aa9f8c/Screenshot%2018.png)
 
+• Now, all the dates are under one column, and the values are properly aligned. For example, Thanos Thakur is listed on the 1st of April. This is the same data as before, just in a different format. Initially, you had one name with multiple date columns. Now, you'll have multiple names, but only one column for the dates. It’s essentially the same data, just presented in a different way."
+
 ![image_alt]()
+
+![image_alt]()
+
 
