@@ -12,7 +12,7 @@ Import your dataset.
 
 • In the Data group, select the Get Data option. Select Attendance Sheet 2022-2023_Masked.xlsx as the data source to import.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/5e5f657883edf45a3d38d9c054b9147c648cfda8/Screenshot%201.png)
 
 # Step 2: Duplicate the Query
 
