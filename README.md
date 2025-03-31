@@ -114,6 +114,8 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/94f9c2e26f931bef987c16a9a3b551dcb9a0a053/Screenshot%2026.png)
 
+• So, here we're applying a hard filter, like filtering for 'April 2022.' This is exactly where we’ll use a parameter. The parameter will allow us to dynamically filter the data based on the selected value, like 'April 2022,' and make it adaptable for different time frames.
+
 ![image_alt]()
 
 ![image_alt]()
