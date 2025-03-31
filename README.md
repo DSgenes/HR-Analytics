@@ -28,7 +28,7 @@ to create a reusable transformation that applies consistently across all sheets 
 
 • Select Duplicate. This creates a copy of your original query.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/15ee029ea54de67a10866bd3db1315f3d0e77b62/Screenshot%203.png)
 
 • I don't need the Attendance Key data here because it's only for the reference purpose so I'm deselecting it.
 
