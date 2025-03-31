@@ -130,5 +130,11 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/d529f20238bfa87d3d37755a23dbfc972cbb98f4/Screenshot%2032.png)
 
+• Now that we’ve created the function, what’s inside it is exactly the transformation we applied. If you had to type out all that code manually, it would be a lot of work, but luckily, we didn’t have to. We just clicked and dragged, and the function was created for us!"
+
+![image_alt]()
+
+![image_alt]()
+
 ![image_alt]()
 
