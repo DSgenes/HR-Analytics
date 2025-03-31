@@ -132,7 +132,7 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 • Now that we’ve created the function, what’s inside it is exactly the transformation we applied. If you had to type out all that code manually, it would be a lot of work, but luckily, we didn’t have to. We just clicked and dragged, and the function was created for us!"
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/f187edac11574726fe5dbdb198898231876f827a/Screenshot%2033.png)
 
 ![image_alt]()
 
