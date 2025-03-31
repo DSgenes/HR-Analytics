@@ -72,14 +72,15 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 • You want to remove the first row because it doesn't serve any purpose. To do this, you can select "Remove Top Rows" and specify that you want to remove the first row. This will eliminate that unnecessary row from your table.
 
-![image_alt]()
-
-• upon selecting it choose "Remove Top Rows".
-
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/e7164efd081181dcf1612075ca73e8f3abe9dc64/Screenshot%2015.png)
 
-• Specify "1" to remove the first row.This will get rid of that first row that you don't need.
+• Upon selecting it, choose "Remove Top Rows".
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/e7164efd081181dcf1612075ca73e8f3abe9dc64/Screenshot%2014.png)
 
+• Specify "1" to remove the first row.This will get rid of that first row that you don't need.
+
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/d377c10c97aaa6538554e8ab4c8e866b847d987d/Screenshot%2016.png)
+
 ![image_alt]()
+
