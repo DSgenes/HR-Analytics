@@ -94,6 +94,13 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/458f57b533762910ce653495040f0c0221276a90/Screenshot%2019.png)
 
+• The column attribute name should be "Date," and the datatype for "Value" should be "text."
+
+• I initially thought the 'Date' column would only contain dates, but it also includes text data like 'Total Present Days,' 'Present,' 'Work from Home,' etc. These values aren't needed, and I could remove them manually by deselecting them via the dropdown. However, if a new column is added, we'd need to repeat this process. To make it more dynamic and automated, I’m thinking of changing the column’s datatype to 'Date.' This will automatically flag non-date values (like 'Holiday Off') as errors. Then, I can right-click on the 'Date' column and select 'Remove Errors,' which will automatically remove any text values in the future, making the process more efficient and automated.
+
 ![image_alt]()
+
+![image_alt]()
+
 
 
