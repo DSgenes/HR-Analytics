@@ -82,5 +82,7 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/d377c10c97aaa6538554e8ab4c8e866b847d987d/Screenshot%2016.png)
 
+• Rename the first column to 'Employee Code' and the second to 'Name'. The transformation we're setting up will apply automatically to all sheets in the file. This way, you won't need to repeat this process for May or June—it's automated."
+
 ![image_alt]()
 
