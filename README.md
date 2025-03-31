@@ -56,8 +56,11 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/d37794ede5b365f288e26ce60af151384b989e25/Screenshot%209.png)
 
+• We need to remove the "Change Type" step. This is because it refers to the column names, which will vary across different sheets. For example, in the "April" sheet, the columns are "April 1," "April 2," "April 3," and in the "May" sheet, they are "May 1," "May 2," "May 3." Since the column names differ, we shouldn’t have any reference to them. So, delete this "Change Type" step to avoid issues.
 
+![image_alt]()
 
 ![image_alt]()
 
 
+![image_alt]()
