@@ -74,10 +74,12 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt]()
 
-• "Remove Top Rows" and specify "1" to remove the first row.This will get rid of that first row that you don't need.
+• upon selecting it choose "Remove Top Rows".
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/e7164efd081181dcf1612075ca73e8f3abe9dc64/Screenshot%2015.png)
 
-![image_alt]()
+• Specify "1" to remove the first row.This will get rid of that first row that you don't need.
+
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/e7164efd081181dcf1612075ca73e8f3abe9dc64/Screenshot%2014.png)
 
 ![image_alt]()
