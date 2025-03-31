@@ -119,7 +119,7 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/cf335e53baee10f60d44d6cf7a240ed3fea9837f/Screenshot%2025.png)
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/94f9c2e26f931bef987c16a9a3b551dcb9a0a053/Screenshot%2026.png)
 
 ![image_alt]()
 
