@@ -182,7 +182,7 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 • Clear the June filter applied in the 'Sheet Name' column before loading the data to Power BI. I won't load all the data; I'll only load what I need. To do this, right-click on the 'Template Data' and uncheck the 'Enable Load' option.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/c69b44583a57bfbc17176f73bfdb2f29ccad8e49/Screenshot%2046.png)
 
 •
 
