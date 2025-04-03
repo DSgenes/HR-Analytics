@@ -152,7 +152,7 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 • After deleting this step , you see now it's showing the data.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/33bd2d538cf1e2548d345807ffac79eee77f1a1a/Screenshot%2038.png)
 
 ![image_alt]()
 
