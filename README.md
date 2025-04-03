@@ -134,11 +134,11 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/f187edac11574726fe5dbdb198898231876f827a/Screenshot%2033.png)
 
-• I am removing the attendance key from the original sheet.
+• I am removing the attendance key from the original sheet.Its no longer needed.
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/d4f622dcb57728bda0ce5d492537bbf243bc7789/Screenshot%2034.png)
 
-
+•
 
 ![image_alt]()
 
