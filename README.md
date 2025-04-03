@@ -176,9 +176,9 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/708019b756b47383eb5327f245a8b10bf6d8d4be/Screenshot%2044.png)
 
-•
+• I want to double-check the data, so let's randomly verify Loki Lal. For June 10th, he's listed Present. I'll check the Excel file, go to the June 2022 sheet, row 9, column for June 10th, and confirm he's there. This confirms the data is correct. Similarly, you can perform multiple checks to ensure everything is accurate and flowing correctly—this is one level of validation.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/40ee6db57ca76ca3d3fbfa2c57089a42ad536644/Screenshot%2045.png)
 
 •
 
