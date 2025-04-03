@@ -172,7 +172,9 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 • I've selected June, so now I can see only the June data.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/708019b756b47383eb5327f245a8b10bf6d8d4be/Screenshot%2043.png)
+
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/708019b756b47383eb5327f245a8b10bf6d8d4be/Screenshot%2044.png)
 
 •
 
