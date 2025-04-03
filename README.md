@@ -154,6 +154,15 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/33bd2d538cf1e2548d345807ffac79eee77f1a1a/Screenshot%2038.png)
 
+• Let's expand the data now. Remember, these are the four columns we have: Employee Code, Name, Date, and Value. I'll go ahead and expand this data accordingly.
+
 ![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
 
 
