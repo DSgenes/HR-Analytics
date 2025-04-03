@@ -188,6 +188,12 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/3ed43b22ebaa71777da88065f891dcf7884e111b/Screenshot%2047.png)
 
+# Conclusion : 
+
+What we did was take those complex Excel files with three different sheets and transform them into a usable format. When you have dates across multiple columns, it's best to consolidate them into one column. This makes it easier for Power BI to handle transformations and formulas. If you leave dates in separate columns, you'd need to create individual formulas for each day and combine them, which isn't feasible. So, always remember: dates in multiple columns won't work; they should be in one column.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
 •
 
 ![image_alt]()
