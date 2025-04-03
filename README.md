@@ -138,7 +138,14 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/d4f622dcb57728bda0ce5d492537bbf243bc7789/Screenshot%2034.png)
 
-•
+• Add this function as a new column. To do this, go to Add Column and invoke the custom function. After creating the custom function, invoke it by calling the 'GetData' function name in the function query to make it available.
 
 ![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
 
