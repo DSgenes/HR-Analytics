@@ -140,7 +140,7 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 • Add this function as a new column. To do this, go to Add Column and invoke the custom function. After creating the custom function, invoke it by calling the 'GetData' function name in the function query to make it available.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/643d9a8f030626da57f14dac0588926f54097e12/Screenshot%2035.png)
 
 ![image_alt]()
 
