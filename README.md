@@ -160,7 +160,7 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 • Delete all the other columns I don't need and keep just the 'Item' column. This column will help me identify which sheet the data is coming from, serving as a reference.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/4f572d82504b370362da49a387e953b4d0a7f130/Screenshot%2040.png)
 
 •
 
