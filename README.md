@@ -186,7 +186,7 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 • Rename 'Attendance Sheet 2022-2023' to 'Final Data'. Now, I'll click 'Close & Apply' to load the data.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/3ed43b22ebaa71777da88065f891dcf7884e111b/Screenshot%2047.png)
 
 •
 
