@@ -132,6 +132,8 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/a70b04ae1e6ecf0cf38c3bd80b1e8ea74ca2df30/Screenshot%2024.png)
 
+# 13. Creating a Dynamic Parameter for Date Filtering
+
 • After completing our transformation, we need to create a parameter. Think of a parameter as a dynamic way to filter data, such as selecting a specific day each month. The value of the parameter can change over time – for example, today it might be for April, tomorrow it could be for January, and the day after, it could be for another month. This allows you to filter data dynamically based on the time frame you need. To do this, I'll go to 'Manage Parameters,' select 'New Parameter,' and create a worksheet. Set the data type to 'Text,' and in the 'Current Value' field, I’ll add the name of the Excel worksheet, like 'Apr 2022.'
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/cf335e53baee10f60d44d6cf7a240ed3fea9837f/Screenshot%2025.png)
@@ -142,11 +144,15 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/a589accac7f9be2683fe836327644be543f5239d/Screenshot%2027.png)
 
+# 14. Using the Parameter for Dynamic Date Filtering
+
 • Instead of specifically filtering for 'April 2022,' we'll select the data based on the parameter worksheet.
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/a589accac7f9be2683fe836327644be543f5239d/Screenshot%2028.png)
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/a589accac7f9be2683fe836327644be543f5239d/Screenshot%2029.png)
+
+# 15. Creating a Reusable Transformation Function
 
 • Now, we want to apply this transformation to all the sheets. To do that, we need to create a function. Think of it like this: if you add the number five to one sheet and want to add it to all sheets, you create a function for adding five. This way, you can reuse the same function for all sheets. What we’ll do now is turn all the steps we've done into a reusable function. It’s like creating a template that you can apply to different sheets. To do this, right-click on the Template table, select 'Create a Function,' and name it 'GetData'.
 
@@ -154,13 +160,19 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/d529f20238bfa87d3d37755a23dbfc972cbb98f4/Screenshot%2032.png)
 
+# 16. Generating the Transformation Function Automatically
+
 • Now that we’ve created the function, what’s inside it is exactly the transformation we applied. If you had to type out all that code manually, it would be a lot of work, but luckily, we didn’t have to. We just clicked and dragged, and the function was created for us!"
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/f187edac11574726fe5dbdb198898231876f827a/Screenshot%2033.png)
 
+# 17. Removing Unnecessary Attendance Key Column
+
 • I am removing the attendance key from the original sheet.Its no longer needed.
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/d4f622dcb57728bda0ce5d492537bbf243bc7789/Screenshot%2034.png)
+
+# 18. Adding the Custom Function as a New Column
 
 • Add this function as a new column. To do this, go to Add Column and invoke the custom function. After creating the custom function, invoke it by calling the 'GetData' function name in the function query to make it available.
 
@@ -170,6 +182,8 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/3e140ba648cc73ae58d6785f641d451947ee84b6/Screenshot%2036.png)
 
+# 19. Fixing Errors in the Function Output
+
 • The function is trying to reference a column, which it shouldn't be doing. We need to remove all steps that reference columns because the function will look for specific columns in the May data, but if it’s searching for something like April 1st, it won’t find it in the May data. I'll go to my template data and check where the column is being referenced. For example, in the 'Change Type' step, it’s referencing column names that I forgot to remove. I’ll delete that step now.
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/3e140ba648cc73ae58d6785f641d451947ee84b6/Screenshot%2037.png)
@@ -178,9 +192,13 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/33bd2d538cf1e2548d345807ffac79eee77f1a1a/Screenshot%2038.png)
 
+# 20. Expanding Data After Function Application
+
 • Let's expand the data now. Remember, these are the four columns we have: Employee Code, Name, Date, and Value. I'll go ahead and expand this data accordingly.
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/d24231f39ce45c793b2eeaa81d69bc828721b176/Screenshot%2039.png)
+
+# 21. Removing Unwanted Columns
 
 • Delete all the other columns I don't need and keep just the 'Item' column. This column will help me identify which sheet the data is coming from, serving as a reference.
 
@@ -189,6 +207,8 @@ This is to ensure that the transformation only applies to the April sheet, and a
 • I'll select all the unwanted columns using the Control key, then right-click and choose 'Remove Columns' to delete them
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/c73f879f129a267181728b4b5a49885bf3d6b70a/Screenshot%2041.png)
+
+# 22. Renaming Columns and Setting Data Types
 
 • Renaming column names and their datatypes altegether : 'Item' to 'Sheet Name,' changing 'Employee Code' to Text, 'Name.1' to 'Name' as Text, 'Date' to Date, and 'Value' to Text.
 
@@ -200,7 +220,13 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/708019b756b47383eb5327f245a8b10bf6d8d4be/Screenshot%2044.png)
 
-• I want to double-check the data, so let's randomly verify Loki Lal. For June 10th, he's listed Present. I'll check the Excel file, go to the June 2022 sheet, row 9, column for June 10th, and confirm he's there. This confirms the data is correct. Similarly, you can perform multiple checks to ensure everything is accurate and flowing correctly—this is one level of validation.
+# 23. Selecting the Desired Data for Verification
+
+• I want to double-check the data, so let's randomly verify Loki Lal. For June 10th, he's listed Present. I'll check the Excel file, go to the June 2022 sheet, row 9, column for June 10th, and confirm he's there. This confirms the data is correct. 
+
+# 24. 12. Validating Data Consistency
+
+• Similarly, you can perform multiple checks to ensure everything is accurate and flowing correctly—this is one level of validation.
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/40ee6db57ca76ca3d3fbfa2c57089a42ad536644/Screenshot%2045.png)
 
