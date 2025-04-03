@@ -21,7 +21,8 @@
 # Step 2: Data Analysis and Exploration 
 
 # 1. Datasets Overview:
-You have four datasets, each representing attendance data for different months (April, May, and June 2022) along with an Attendance Key dataset. Here's a breakdown of each dataset:
+You have four datasets, each representing attendance data for different months (April, May, and June 2022) along with an 
+Attendance Key dataset. Here's a breakdown of each dataset:
 
    1. Apr 2022
    2. Attendance Key
@@ -37,7 +38,8 @@ You have four datasets, each representing attendance data for different months (
 
 # 2. Attendance Key: 
      Contains a reference for the types of attendance codes.
-         • Attendance Code: Codes such as PL (Paid Leave), SL (Sick Leave), etc., which define the type of leave or attendance status.
+         • Attendance Code: Codes such as PL (Paid Leave), SL (Sick Leave), etc., which define the type of leave 
+           or attendance status.
 
 # 3. June 2022: 
      Contains attendance data for June 2022.
@@ -55,9 +57,10 @@ You have four datasets, each representing attendance data for different months (
          
 # 2. Automating Data Transformation in Power BI: A Step-by-Step Guide
 
-    Goal : Now we're aiming to create a template in Power BI that can automatically apply transformations to new sheets (e.g., April, May, june, etc.) 
-as they are added to your data in the future. This way, you don’t have to redo the transformation process every time a new sheet is added. You want 
-to create a reusable transformation that applies consistently across all sheets without manual intervention.
+    Goal : Now we're aiming to create a template in Power BI that can automatically apply transformations to new sheets
+          (e.g., April, May, june, etc.) as they are added to your data in the future. This way, you don’t have to redo the
+          transformation process every time a new sheet is added. You want to create a reusable transformation that applies
+          consistently across all sheets without manual intervention.
 
 #       • Duplicate Query
 #       • Remove Unnecessary Columns
