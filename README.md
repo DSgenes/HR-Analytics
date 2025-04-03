@@ -20,7 +20,40 @@
 
 # Step 2: Data Analysis and Exploration 
 
-# Automating Data Transformation in Power BI: A Step-by-Step Guide
+# 1. Datasets Overview:
+You have four datasets, each representing attendance data for different months (April, May, and June 2022) along with an Attendance Key dataset. Here's a breakdown of each dataset:
+
+   1. Apr 2022
+   2. Attendance Key
+   3. June 2022
+   4. May 2022
+      
+# 1. Apr 2022:
+     Contains attendance data for April 2022.
+         • Employee Code: Unique identifier for each employee.
+         • Name: The employee's name.
+         • Date: The date of attendance for the specific employee.
+         • Values: Represents attendance status or value for a particular date (could include values like Present, Absent, etc.).
+
+# 2. Attendance Key: 
+     Contains a reference for the types of attendance codes.
+         • Attendance Code: Codes such as PL (Paid Leave), SL (Sick Leave), etc., which define the type of leave or attendance status.
+
+# 3. June 2022: 
+     Contains attendance data for June 2022.
+         • Employee Code: Unique identifier for each employee.
+         • Name: The employee's name.
+         • Date: The date of attendance for the specific employee.
+         • Values: Similar to Apr 2022, it contains the attendance value for each date.
+
+# 4. May 2022: 
+     Contains attendance data for May 2022.
+         • Employee Code: Unique identifier for each employee.
+         • Name: The employee's name.
+         • Date: The date of attendance for the specific employee.
+         • Values: Attendance values similar to those in Apr 2022 and June 2022.
+         
+# 2. Automating Data Transformation in Power BI: A Step-by-Step Guide
 
     Goal : Now we're aiming to create a template in Power BI that can automatically apply transformations to new sheets (e.g., April, May, june, etc.) 
 as they are added to your data in the future. This way, you don’t have to redo the transformation process every time a new sheet is added. You want 
