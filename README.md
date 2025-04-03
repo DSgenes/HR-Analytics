@@ -180,6 +180,14 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/40ee6db57ca76ca3d3fbfa2c57089a42ad536644/Screenshot%2045.png)
 
+• 
+
+![image_alt]()
+
+•
+
+![image_alt]()
+
 •
 
 ![image_alt]()
@@ -190,4 +198,31 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 •
 
+![image_alt]()
+
+•
+
+![image_alt]()
+
+•
+
+![image_alt]()
+
+•
+
+![image_alt]()
+
+•
+
+![image_alt]()
+
+•
+
+![image_alt]()
+
+•
+
+![image_alt]()
+
+•
 
