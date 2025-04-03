@@ -144,11 +144,11 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 • The GetData column showing Errors which it shouldn't be showing. 
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/3e140ba648cc73ae58d6785f641d451947ee84b6/Screenshot%2036.png)
 
 • The function is trying to reference a column, which it shouldn't be doing. We need to remove all steps that reference columns because the function will look for specific columns in the May data, but if it’s searching for something like April 1st, it won’t find it in the May data. I'll go to my template data and check where the column is being referenced. For example, in the 'Change Type' step, it’s referencing column names that I forgot to remove. I’ll delete that step now.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/3e140ba648cc73ae58d6785f641d451947ee84b6/Screenshot%2037.png)
 
 ![image_alt]()
 
