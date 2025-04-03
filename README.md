@@ -166,7 +166,7 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/c73f879f129a267181728b4b5a49885bf3d6b70a/Screenshot%2041.png)
 
-•
+• Renaming column names and their datatypes altegether : 'Item' to 'Sheet Name,' changing 'Employee Code' to Text, 'Name.1' to 'Name' as Text, 'Date' to Date, and 'Value' to Text.
 
 ![image_alt]()
 
