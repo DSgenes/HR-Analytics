@@ -20,11 +20,31 @@
 
 # Step 2: Data Analysis and Exploration 
 
-# Building an Automated Template for Dynamic Data Transformation in Power BI
+# Automating Data Transformation in Power BI: A Step-by-Step Guide
 
     Goal : Now we're aiming to create a template in Power BI that can automatically apply transformations to new sheets (e.g., April, May, june, etc.) 
 as they are added to your data in the future. This way, you don’t have to redo the transformation process every time a new sheet is added. You want 
 to create a reusable transformation that applies consistently across all sheets without manual intervention.
+
+#       • Duplicate Query
+#       • Remove Unnecessary Columns
+#       • Filter for Specific Month
+#       • Retain Data Table
+#       • Expand the Table
+#       • Remove "Change Type" Step
+#       • Promote First Row as Headers
+#       • Remove First Unnecessary Row
+#       • Rename Columns
+#       • Unpivot Date Columns
+#       • Remove Non-Date Values
+#       • Create Parameter
+#       • Create Reusable Function
+#       • Invoke Function
+#       • Clean Data
+#       • Rename and Adjust Data Types
+#       • Validate Data
+#       • Clear Filters
+#       • Rename Final Table
 
 # 1. Creating a Reusable Template for Dynamic Data Transformation
 
