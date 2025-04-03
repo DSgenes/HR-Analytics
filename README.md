@@ -162,9 +162,9 @@ This is to ensure that the transformation only applies to the April sheet, and a
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/4f572d82504b370362da49a387e953b4d0a7f130/Screenshot%2040.png)
 
-•
+• I'll select all the unwanted columns using the Control key, then right-click and choose 'Remove Columns' to delete them
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/c73f879f129a267181728b4b5a49885bf3d6b70a/Screenshot%2041.png)
 
 •
 
