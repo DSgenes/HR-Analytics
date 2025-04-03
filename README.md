@@ -2,21 +2,25 @@
 
 # Power Query: Gathering & Transforming Data in Power BI
 
-# Step 1 : Load the workbook
+# Step 1 : Data Collection and Preparation 
 
-Import your dataset.
+  1. Load the workbook
 
-• Download the Microsoft Excel workbook Attendance Sheet 2022-2023_Masked.xlsx.
+  2. Import your dataset.
 
-• At the top of the Power BI window, navigate to the Home ribbon tab.
+     • Download the Microsoft Excel workbook Attendance Sheet 2022-2023_Masked.xlsx.
 
-• In the Data group, select the Get Data option. Select Attendance Sheet 2022-2023_Masked.xlsx as the data source to import.
+     • At the top of the Power BI window, navigate to the Home ribbon tab.
+
+     • In the Data group, select the Get Data option. Select Attendance Sheet 2022-2023_Masked.xlsx as the data source to import.
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/5e5f657883edf45a3d38d9c054b9147c648cfda8/Screenshot%201.png)
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/f6784b8601b981562a62e43e58bd05bbc79234fc/Screenshot%202.png)
 
-# Step 2: Duplicate the Query
+# Step 2: Data Analysis and Exploration 
+
+# Duplicate the Query
 
 Now we're aiming to create a template in Power BI that can automatically apply transformations to new sheets (e.g., April, May, june, etc.) 
 as they are added to your data in the future. This way, you don’t have to redo the transformation process every time a new sheet is added. You want 
@@ -30,7 +34,7 @@ to create a reusable transformation that applies consistently across all sheets 
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/15ee029ea54de67a10866bd3db1315f3d0e77b62/Screenshot%203.png)
 
-• I don't need the Attendance Key data here because it's only for the reference purpose so I'm deselecting it.
+• We don't need the Attendance Key data here because it's only for the reference purpose so I'm deselecting it.
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/0251c7a89643057c043689c79db59a4f396171fd/Screenshot%204.png)
 
