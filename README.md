@@ -416,7 +416,7 @@ you've mentioned needs to be structured with DAX as follows:
   • Drag the Measure
   • Adjust the Formatting
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/0d492e6ea55abe52202b531cfd105b2d47aaa7c8/Screenshot%2050.png)
 
 
 
