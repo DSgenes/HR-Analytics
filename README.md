@@ -442,17 +442,15 @@ you've mentioned needs to be structured with DAX as follows:
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/55110c8132e3574d9f93f491a3b5ed4ff777bdfd/Screenshot%2053.png)
 
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/55110c8132e3574d9f93f491a3b5ed4ff777bdfd/Screenshot%2054.png)
+
   • Use the similar approach for WFH
 
-![image_alt](https://github.com/DSgenes/HR-Analytics/blob/55110c8132e3574d9f93f491a3b5ed4ff777bdfd/Screenshot%2054.png)
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/55110c8132e3574d9f93f491a3b5ed4ff777bdfd/Screenshot%2055.png)
 
   • For rows where the value is "WFH," the WFH Count should be 1.
   • For rows where the value is "HWFH" (Half Work From Home), the WFH Count should be 0.5.
   • For other values (e.g., absent), the WFH Count should be 0.
-
-![image_alt](https://github.com/DSgenes/HR-Analytics/blob/55110c8132e3574d9f93f491a3b5ed4ff777bdfd/Screenshot%2055.png)
-
-•
 
 ![image_alt]()
 
