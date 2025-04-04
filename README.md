@@ -410,6 +410,16 @@ you've mentioned needs to be structured with DAX as follows:
 
 ![image_alt]()
 
+# Displaying Total Working Days on a Card Visual 
+
+  • Select the Card Visual
+  • Drag the Measure
+  • Adjust the Formatting
+
+![image_alt]()
+
+
+
 •
 
 ![image_alt]()
