@@ -18,8 +18,11 @@
 
   1. Load the workbook
   2. Import your dataset.
+     
      • Download the Microsoft Excel workbook Attendance Sheet 2022-2023_Masked.xlsx.
+     
      • At the top of the Power BI window, navigate to the Home ribbon tab.
+     
      • In the Data group, select the Get Data option. Select Attendance Sheet 2022-2023_Masked.xlsx as the data source to import.
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/5e5f657883edf45a3d38d9c054b9147c648cfda8/Screenshot%201.png)
