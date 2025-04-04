@@ -435,11 +435,8 @@ you've mentioned needs to be structured with DAX as follows:
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/55110c8132e3574d9f93f491a3b5ed4ff777bdfd/Screenshot%2052.png)
 
 # Filter the 'Value' Column:
-
   • Click on the drop-down arrow next to the Value column in the Final Data table.
-  
   • Select only the "HWFH" value. This will filter the data to show only the rows where the value is "Half Work From Home".
-  
   • Check the 'WFH Count' Column
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/55110c8132e3574d9f93f491a3b5ed4ff777bdfd/Screenshot%2053.png)
