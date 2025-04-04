@@ -418,9 +418,11 @@ you've mentioned needs to be structured with DAX as follows:
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/0d492e6ea55abe52202b531cfd105b2d47aaa7c8/Screenshot%2050.png)
 
+# Calculating Total Present Days
 
-
-•
+  To accurately calculate the Present Days measure in Power BI, we need to account for the following:
+  • Days marked as "P" (Present).
+  • Work from Home days ("WFH") and Half Work from Home days ("Half WFH") should also be considered as present.
 
 ![image_alt]()
 
