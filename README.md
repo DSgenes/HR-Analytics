@@ -474,7 +474,7 @@ you've mentioned needs to be structured with DAX as follows:
   • Select Card Visual.
   • Drag and drop this measure into the Fields.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/b67d41ec4059c35b794b29c31fe7634f2af2671f/Screenshot%2058.png)
 
  This looks correct because your present days should be less than your working days.
  
@@ -491,7 +491,7 @@ you've mentioned needs to be structured with DAX as follows:
  
   • Drag and drop this measure using card visual.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/b67d41ec4059c35b794b29c31fe7634f2af2671f/Screenshot%2059.png)
 
 •
 
