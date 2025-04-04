@@ -426,11 +426,29 @@ you've mentioned needs to be structured with DAX as follows:
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/8cc50f63228cdea394fdb7c71a9f91db18f747aa/Screenshot%2051.png)
 
-•
+# WFH and Half WFH Count Column
+
+  • Creating a new column in the Final Data table using the SWITCH statement is an efficient way to handle the logic
+    for Work From Home (WFH) and Half Work From Home (HWFH) days, as it will simplify the aggregation and avoid complex 
+    DAX calculations in the measure.
 
 ![image_alt]()
 
-•
+# Filter the 'Value' Column:
+
+  • Click on the drop-down arrow next to the Value column in the Final Data table.
+  • Select only the "WFH" value. This will filter the data to show only the rows where the value is "Work From Home."
+  • Check the 'WFH Count' Column
+
+![image_alt]()
+
+  • Use the similar approach for HWFH
+
+![image_alt]()
+
+  • For rows where the value is "WFH," the WFH Count should be 1.
+  • For rows where the value is "HWFH" (Half Work From Home), the WFH Count should be 0.5.
+  • For other values (e.g., absent), the WFH Count should be 0.
 
 ![image_alt]()
 
