@@ -522,4 +522,6 @@ you've mentioned needs to be structured with DAX as follows:
   • If 15% is the WFH % for a day, it means that out of the total number of present employees, 15% of them are working from home.
   • So, if you have 100 people in your company, 15% would translate to 15 people working from home on that day.
 
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/ceafd899f269e9ffa6855a758890b73caaff6eef/Screenshot%2064.png)
+
   
