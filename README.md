@@ -399,12 +399,17 @@ you've mentioned needs to be structured with DAX as follows:
    • Subtract Non-Work Days from Total Days: Finally, subtract the count of non-working days from the total days to get the 
      number of Total Working Days.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/06b4abe9e8a3c4aa900d8db5d71fb3ebb8a32e88/Screenshot%2049.png)
 
 # How It Works:
-Total Working Days will give you the count of all the records (days) excluding the ones that are marked as "WO" or "HO".
 
-This formula helps in removing weekly off and holiday off from the total count, giving you a more accurate number of working days.
+  • Total Working Days will give you the count of all the records (days) excluding the ones that are marked as "WO" or "HO".
+
+  • This formula helps in removing weekly off and holiday off from the total count, giving you a more accurate number of
+    working days.
+
+![image_alt]()
+
 •
 
 ![image_alt]()
