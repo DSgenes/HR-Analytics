@@ -369,6 +369,21 @@ Attendance Key dataset. Here's a breakdown of each dataset:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
+# Step 3 : Data Visualization
+
+# Creating a 'Measure Table' in Power BI : 
+
+  To create a separate 'Measure Table' in Power BI for storing your measures:
+    • Go to the Home Tab.
+    • Select 'Enter Data'.
+    • Name the Table 'Measure Table'.
+    • Leave the Data Blank: You don't need to enter any actual data here. The table will be used to store only measures.
+    • Click 'Load'.
+
+![image_alt]()
+
+Now you can create your DAX measures and associate them with this new table, keeping all measures organized in one place.
+
 •
 
 ![image_alt]()
