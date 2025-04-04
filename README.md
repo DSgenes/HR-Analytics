@@ -513,4 +513,4 @@ you've mentioned needs to be structured with DAX as follows:
 
 # Create WFH % (percentage of time people are working from home)
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/a76edf49f5b9d7c69cebe124a7d0e6a631abb457/Screenshot%2063.png)
