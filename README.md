@@ -380,7 +380,7 @@ Attendance Key dataset. Here's a breakdown of each dataset:
     • Leave the Data Blank: You don't need to enter any actual data here. The table will be used to store only measures.
     • Click 'Load'.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/8251e0872fa6220bd6bda8fc67c345fd0df7e2be/Screenshot%2048.png)
 
 Now you can create your DAX measures and associate them with this new table, keeping all measures organized in one place.
 
