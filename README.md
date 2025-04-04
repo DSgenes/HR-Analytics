@@ -10,7 +10,17 @@
   The goal is to build a dynamic and interactive dashboard that provides real-time insights into employee attendance, leave types, 
   and trends across different months.
   
-  ----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+
+  # Tasks : 
+    Here is a brief overview of the workflow for the task:
+         1. Review the data structure.
+         2. Metrics to compare :
+             • Working Preference of People between 'Work From Home' (WFH) and 'Working From Office' (WFO).
+             • Percentage of overall 'Sick Leave %' to understand to monitor employee wellness.
+               (Note : A data analyst can add more metrics to help stakeholders.)
+
+-----------------------------------------------------------------------------------------------------------------------------------
   
 # Power Query: Gathering & Transforming Data in Power BI
 
@@ -20,9 +30,7 @@
   2. Import your dataset.
      
      • Download the Microsoft Excel workbook Attendance Sheet 2022-2023_Masked.xlsx.
-     
      • At the top of the Power BI window, navigate to the Home ribbon tab.
-     
      • In the Data group, select the Get Data option. Select Attendance Sheet 2022-2023_Masked.xlsx as the data source to import.
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/5e5f657883edf45a3d38d9c054b9147c648cfda8/Screenshot%201.png)
