@@ -483,7 +483,7 @@ you've mentioned needs to be structured with DAX as follows:
   • To create the Presence % measure, which calculates the percentage of Present Days divided by Total Working Days, you can use 
     the DIVIDE function in DAX.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/67a63b0023578621f457346965e7e1c0eddd45f2/Screenshot%2060.png)
 
   • Since this is a percentage use the percentage symbol.
   
