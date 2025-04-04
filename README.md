@@ -508,3 +508,9 @@ you've mentioned needs to be structured with DAX as follows:
   • Now you can see the measures for different different months.
   
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/20d3a07b5e789e8d1aa40a87f4e28b206279ecfd/Screenshot%2062.png)
+
+# Final Useable Dashboard - And How These Measures Matter to them?
+
+# Create WFH % (percentage of time people are working from home)
+
+![image_alt]()
