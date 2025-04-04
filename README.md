@@ -469,15 +469,27 @@ you've mentioned needs to be structured with DAX as follows:
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/15d70d8d6a0dc3ef57c7ad1b6ee3f3871581dc07/Screenshot%2057.png)
 
-  • 
+# Create Card Visual For Present Days
+
+  • Select Card Visual.
+  • Drag and drop this measure into the Fields.
 
 ![image_alt]()
 
-•
+ This looks correct because your present days should be less than your working days.
+ 
+# Creating Presence % Measure
+
+  • To create the Presence % measure, which calculates the percentage of Present Days divided by Total Working Days, you can use 
+    the DIVIDE function in DAX.
 
 ![image_alt]()
 
-•
+  • Since this is a percentage use the percentage symbol.
+  
+ # Create Card Visual For Presence %
+ 
+  • Drag and drop this measure using card visual.
 
 ![image_alt]()
 
