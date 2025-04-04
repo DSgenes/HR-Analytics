@@ -524,4 +524,26 @@ you've mentioned needs to be structured with DAX as follows:
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/ceafd899f269e9ffa6855a758890b73caaff6eef/Screenshot%2064.png)
 
-  
+  • This insight shows the WFH % for June, and by using the month slicer, we can compare it with other months. For example, 
+    in May, the WFH % was 11%. As a co-founder of Atliq, I can see that the percentage of people working from home is higher
+    in June compared to April.
+
+  • This insight is valuable for strategic planning, especially when it comes to release schedules for clients. By analyzing the
+    Presence %, we can identify periods when a significant portion of the team is absent, such as during the Diwali months of 
+    October and November, when absenteeism typically increases. With this data, we can proactively communicate to clients that
+    a certain percentage of our workforce will be unavailable during these months, helping us plan project timelines more effectively.
+
+    For instance, even though we know Diwali typically causes 30%-40% absenteeism, this dashboard can provide hard data to back up our
+    release planning. Additionally, it helps capture seasonal trends specific to the community. For example, if a significant portion
+    of our workforce is from the Patel community and has weddings from December through mid-January, this can also be factored into
+    planning. By identifying "hot zones" or peak absentee periods throughout the year, we can better align our release schedules with
+    these patterns, ensuring smoother operations and better client communication.
+
+# Create a New Column For Measuring Sick Leave %
+   
+   • After analyzing Presence % and WFH %, we also want to track Sick Leave % to monitor if there are any signs of increased absenteeism,
+     potentially due to factors like a COVID outbreak.
+
+   • I'm using the same approach as i did before.
+
+![image_alt()
