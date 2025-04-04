@@ -501,4 +501,4 @@ you've mentioned needs to be structured with DAX as follows:
   • Create a New Column.
   • Add the formula for creating separate month column.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/6f68c382708567d67806d265b344c8c79a6c61a9/Screenshot%2061.png)
