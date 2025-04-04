@@ -424,7 +424,7 @@ you've mentioned needs to be structured with DAX as follows:
   • Days marked as "P" (Present).
   • Work from Home days ("WFH") and Half Work from Home days ("Half WFH") should also be considered as present.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/8cc50f63228cdea394fdb7c71a9f91db18f747aa/Screenshot%2051.png)
 
 •
 
