@@ -548,11 +548,13 @@ you've mentioned needs to be structured with DAX as follows:
 
 ![image_alt(https://github.com/DSgenes/HR-Analytics/blob/c6ac4e1fa61b7c01d90caa5d256a827b15df0f00/Screenshot%2065.png)
 
-![image_alt]()
+   • So verify this if the formula works fine for Sl and HSL.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/a5e4f03ab9daaf607d2bc250fdd3fd23685644ea/Screenshot%2066.png)
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/a5e4f03ab9daaf607d2bc250fdd3fd23685644ea/Screenshot%2067.png)
+
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/a5e4f03ab9daaf607d2bc250fdd3fd23685644ea/Screenshot%2068.png)
 
 ![image_alt]()
 
