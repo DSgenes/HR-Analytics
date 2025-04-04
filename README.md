@@ -546,7 +546,7 @@ you've mentioned needs to be structured with DAX as follows:
 
    • I'm using the same approach as i did before.
 
-![image_alt(https://github.com/DSgenes/HR-Analytics/blob/c6ac4e1fa61b7c01d90caa5d256a827b15df0f00/Screenshot%2065.png)
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/c6ac4e1fa61b7c01d90caa5d256a827b15df0f00/Screenshot%2065.png)
 
    • So verify this if the formula works fine for Sl and HSL.
 
