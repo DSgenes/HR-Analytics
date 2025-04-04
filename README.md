@@ -460,14 +460,14 @@ you've mentioned needs to be structured with DAX as follows:
 
   • Create another WFH Count Measure.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/15d70d8d6a0dc3ef57c7ad1b6ee3f3871581dc07/Screenshot%2056.png)
 
 # Re-evaluating the Present Day measure
 
   • Since you've already created the WFH Count column and a WFH Count measure, you can simplify the Present Days formula by 
     directly referencing the WFH Count measure without needing to create a new variable for it.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/15d70d8d6a0dc3ef57c7ad1b6ee3f3871581dc07/Screenshot%2057.png)
 
   • 
 
