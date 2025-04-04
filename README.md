@@ -493,5 +493,12 @@ you've mentioned needs to be structured with DAX as follows:
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/b67d41ec4059c35b794b29c31fe7634f2af2671f/Screenshot%2059.png)
 
-•
+# Creating a Separate Month Column
 
+  • To create a new column that shows the start of the month for each date in the Final Data table and formats it as 
+  "MMM YY," you can follow these steps:
+
+  • Create a New Column.
+  • Add the formula for creating separate month column.
+
+![image_alt]()
