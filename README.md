@@ -384,10 +384,27 @@ Attendance Key dataset. Here's a breakdown of each dataset:
 
 Now you can create your DAX measures and associate them with this new table, keeping all measures organized in one place.
 
-•
+# Calculating Total Working Days Excluding Non-Work Days in Power BI
+
+To create the Total Working Days measure in Power BI, considering the removal of weekly off ("WO") and holiday off ("HO"), the formula
+you've mentioned needs to be structured with DAX as follows:
+
+# Steps to Create the Measure:
+
+   • Define the Total Days: First, you calculate the total number of records in the dataset.
+   
+   • Define Non-Work Days: Then, you identify the non-working days, i.e., the days that are marked as "WO" (Weekly Off)
+     and "HO" (Holiday Off) in your data.
+     
+   • Subtract Non-Work Days from Total Days: Finally, subtract the count of non-working days from the total days to get the 
+     number of Total Working Days.
 
 ![image_alt]()
 
+# How It Works:
+Total Working Days will give you the count of all the records (days) excluding the ones that are marked as "WO" or "HO".
+
+This formula helps in removing weekly off and holiday off from the total count, giving you a more accurate number of working days.
 •
 
 ![image_alt]()
