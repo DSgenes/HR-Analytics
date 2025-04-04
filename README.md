@@ -514,3 +514,12 @@ you've mentioned needs to be structured with DAX as follows:
 # Create WFH % (percentage of time people are working from home)
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/a76edf49f5b9d7c69cebe124a7d0e6a631abb457/Screenshot%2063.png)
+
+  • The WFH % measure gives you the insight of what percentage of people are working from home on a given day relative to the total present days.
+
+    For example:
+
+  • If 15% is the WFH % for a day, it means that out of the total number of present employees, 15% of them are working from home.
+  • So, if you have 100 people in your company, 15% would translate to 15 people working from home on that day.
+
+  
