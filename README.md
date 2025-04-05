@@ -564,5 +564,82 @@ you've mentioned needs to be structured with DAX as follows:
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/1e50659cc8bb212aff3a805c9d0fdd0bb2fea31f/Screenshot%2071.png)
 
+-----------------------------------------------------------------------------------------------------------------------
 
+# HR Analytics Dashboard - Atliq Presence Insights
+
+  This Power BI report provides HR Presence Insights for Atliq Corporation, focusing on employee attendance trends, 
+  Work From Home (WFH) activity, and Sick Leave (SL) data across different dates.
+
+# Key Metrics Overview
+
+#   Metric	                        Value
+  • Attendance %	                  94.0%
+  • Work From Home %	              9.1%
+  • Sick Leave %	                  0.4%
+
+  These KPIs reflect overall organizational health and workforce availability.
+--------------------------------------------------------------------------------------------------------------------
+# Trend Analysis
+
+# % of Attendance Over Time
+
+  • Displays a stable attendance rate with minor fluctuations between 92.1% and 96.1%.
+
+  • Indicates consistent employee engagement with no major dips.
+
+  • Useful for tracking operational stability.
+
+# % of Sick Leave (SL) Over Time
+
+  • Peaks observed around April 3 (2.4%) and mid-April (1.3%).
+
+  • Overall SL remains low and steady, suggesting minimal health-related absences.
+
+# % of Work From Home (WFH) Over Time
+
+  • Shows fluctuating trends, rising to 16.4% by end of April.
+
+  • Spikes around April 17 and 24 could correlate with internal policies or events.
+
+# Employee-Level Insights
+
+  • Helps HR identify employees with low attendance or high WFH percentages for potential follow-ups.
+
+# Attendance by Day of Week
+
+  • Best Attendance Days: Thursday (96.5%), Tuesday (94.2%)
+
+  • Lower Attendance Days: Friday (93.8%)
+
+  • Sick Leave Trends: Higher on Thursdays, dropping to 0% on Fridays.
+
+  • WFH Preferences: Fridays see the highest WFH % (12.2%), followed by Thursday (10.3%)
+
+This helps optimize office planning, resource allocation, and hybrid working policies.
+
+--------------------------------------------------------------------------------------------------------------
+
+#  Glossary
+   • SL: Sick Leave
+
+   • WFH: Work From Home
+
+   • HPL/HML: Half Day Leave (Paid/Medical)
+
+   • P: Present
+
+   • F: Working from Home
+
+# Summary
+
+  This dashboard allows HR teams to:
+
+    • Monitor attendance consistency
+
+    • Identify WFH and SL trends
+
+    • Evaluate individual employee presence patterns
+ 
+    • Make data-driven decisions on hybrid work models
 
