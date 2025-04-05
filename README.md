@@ -560,5 +560,5 @@ you've mentioned needs to be structured with DAX as follows:
 
 ![image_alt]()
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/10c3c0198544d105268fed2c999cb1f39471342b/Screenshot%2070.png)
 
