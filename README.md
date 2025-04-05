@@ -565,6 +565,9 @@ you've mentioned needs to be structured with DAX as follows:
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/1e50659cc8bb212aff3a805c9d0fdd0bb2fea31f/Screenshot%2071.png)
 
 -----------------------------------------------------------------------------------------------------------------------
+# Dashboarding 
+
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/4a4a39e9b8e86dd28217dceb1a2cca5caebde5bd/Screenshot%2073.png)
 
 # HR Analytics Dashboard - Atliq Presence Insights
 
@@ -620,7 +623,7 @@ This helps optimize office planning, resource allocation, and hybrid working pol
 
 --------------------------------------------------------------------------------------------------------------
 
-#  Glossary
+# Glossary
    • SL: Sick Leave
 
    • WFH: Work From Home
