@@ -533,11 +533,11 @@ you've mentioned needs to be structured with DAX as follows:
     October and November, when absenteeism typically increases. With this data, we can proactively communicate to clients that
     a certain percentage of our workforce will be unavailable during these months, helping us plan project timelines more effectively.
 
-    For instance, even though we know Diwali typically causes 30%-40% absenteeism, this dashboard can provide hard data to back up our
-    release planning. Additionally, it helps capture seasonal trends specific to the community. For example, if a significant portion
-    of our workforce is from the Patel community and has weddings from December through mid-January, this can also be factored into
-    planning. By identifying "hot zones" or peak absentee periods throughout the year, we can better align our release schedules with
-    these patterns, ensuring smoother operations and better client communication.
+   • For instance, even though we know Diwali typically causes 30%-40% absenteeism, this dashboard can provide hard data to back up our
+     release planning. Additionally, it helps capture seasonal trends specific to the community. For example, if a significant portion
+     of our workforce is from the Patel community and has weddings from December through mid-January, this can also be factored into
+     planning. By identifying "hot zones" or peak absentee periods throughout the year, we can better align our release schedules with
+     these patterns, ensuring smoother operations and better client communication.
 
 # Create a New Column For Measuring Sick Leave %
    
@@ -555,6 +555,8 @@ you've mentioned needs to be structured with DAX as follows:
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/a5e4f03ab9daaf607d2bc250fdd3fd23685644ea/Screenshot%2067.png)
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/a5e4f03ab9daaf607d2bc250fdd3fd23685644ea/Screenshot%2068.png)
+
+# Creating SL Count Measure and SL % 
 
 ![image_alt]()
 
