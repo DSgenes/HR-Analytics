@@ -566,7 +566,6 @@ you've mentioned needs to be structured with DAX as follows:
 
 -----------------------------------------------------------------------------------------------------------------------
 # Dashboarding 
-
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/4a4a39e9b8e86dd28217dceb1a2cca5caebde5bd/Screenshot%2073.png)
 
 # HR Analytics Dashboard - Atliq Presence Insights
