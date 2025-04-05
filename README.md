@@ -556,9 +556,13 @@ you've mentioned needs to be structured with DAX as follows:
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/a5e4f03ab9daaf607d2bc250fdd3fd23685644ea/Screenshot%2068.png)
 
-# Creating SL Count Measure and SL % 
+# Creating SL Count Measure 
 
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/9547270d0112925b3c0c936c64acec31063af81c/Screenshot%2069.png)
 
+# Creating SL % Measure
+
 ![image_alt](https://github.com/DSgenes/HR-Analytics/blob/10c3c0198544d105268fed2c999cb1f39471342b/Screenshot%2070.png)
+
+
 
