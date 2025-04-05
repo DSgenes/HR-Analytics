@@ -562,7 +562,7 @@ you've mentioned needs to be structured with DAX as follows:
 
 # Creating SL % Measure
 
-![image_alt](https://github.com/DSgenes/HR-Analytics/blob/10c3c0198544d105268fed2c999cb1f39471342b/Screenshot%2070.png)
+![image_alt](https://github.com/DSgenes/HR-Analytics/blob/1e50659cc8bb212aff3a805c9d0fdd0bb2fea31f/Screenshot%2071.png)
 
 
 
