@@ -16,7 +16,7 @@
     Here is a brief overview of the workflow for the task:
          1. Review the data structure.
          2. Metrics to compare :
-             • Working Preference of People between 'Work From Home' (WFH) and 'Working From Office' (WFO).
+             • Working Preference of People between 'Work From Home' (WFH) and 'Working From Office'(WFO).
              • Percentage of overall 'Sick Leave %' to understand to monitor employee wellness.
                (Note : A data analyst can add more metrics to help stakeholders.)
 
